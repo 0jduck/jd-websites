@@ -1,1 +1,1 @@
-# jd-websites
+# jd_bots site code
